@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Жопчики\Desktop\Даша\projects with git\cn 4\ComputerNet4\ComputerNet4\Source.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Жопчики\Desktop\Даша\projects with git\cn 4\ComputerNet4\ComputerNet4\Source.cpp(53,8): warning C4101: frames: неиспользованная локальная переменная
+C:\Users\Жопчики\Desktop\Даша\projects with git\cn 4\ComputerNet4\ComputerNet4\Source.cpp(37,14): warning C4101: file_name: неиспользованная локальная переменная
+  ComputerNet4.vcxproj -> C:\Users\Жопчики\Desktop\Даша\projects with git\cn 4\ComputerNet4\Debug\ComputerNet4.exe
